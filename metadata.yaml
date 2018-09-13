@@ -1,0 +1,35 @@
+_repo: A-narrative-of-the-sufferings-preservation-and-deliverance-of-Capt-John-Dean-and-company-in-t__51457
+_version: 0.0.1
+alternative_title: "A narrative of the sufferings, preservation and deliverance, of\
+  \ Captain John Dean and company\r\nin the Nottingham galley of London, cast away\
+  \ on Boon-Island, near New England, December 11, 1710"
+creator:
+  author:
+    agent_name: Dean, John
+    alias: Deane, John
+    birthdate: 1679
+    deathdate: 1761
+    gutenberg_agent_id: '46421'
+    url: http://www.gutenberg.org/2009/agents/46421
+  editor:
+    agent_name: Dean, Jasper
+    gutenberg_agent_id: '46422'
+    url: http://www.gutenberg.org/2009/agents/46422
+description: ''
+gutenberg_issued: '2016-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nottingham Galley (Merchant ship)'
+- !lcc 'E151'
+- !lcsh 'Boon Island (Me.)'
+- GITenberg
+title: "A narrative of the sufferings, preservation and deliverance, of Capt. John\
+  \ Dean and company\r\nin the Nottingham galley of London, cast away on Boon-Island,\
+  \ near New England, December 11, 1710"
+url: http://www.gutenberg.org/ebooks/51457
